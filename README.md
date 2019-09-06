@@ -1,8 +1,9 @@
-#JupyterLab's Atomic UI Guide
+# JupyterLab's Atomic UI Guide
 
-This is a work in progress.
+A (soon-to-be) superb guide to JupyterLab's design system!
 
-If you'd like to contribute, fork and clone then...
-`cd jupyterlab-atomic-ui`
-`npm install --save-dev react-styleguidist`
+
+If you'd like to contribute, fork and clone then...<br>
+`cd jupyterlab-atomic-ui`<br>
+`npm install --save-dev react-styleguidist`<br>
 `npx styleguidist server`
